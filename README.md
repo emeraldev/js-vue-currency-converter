@@ -4,6 +4,6 @@ This assessment is based on Vue.js, created by vue-cli with default configuratio
 ### Currency API Services
 - [Currency JSON API](https://fixer.io/)
 
-***Run npm install
+***Run npm install***
 
 ***May the force be with us all! :)***
